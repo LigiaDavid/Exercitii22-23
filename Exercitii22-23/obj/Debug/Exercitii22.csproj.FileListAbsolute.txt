@@ -1,0 +1,6 @@
+C:\AgileHubCurs\Exercitii22-23\Exercitii22-23\bin\Debug\Exercitii22-23.exe.config
+C:\AgileHubCurs\Exercitii22-23\Exercitii22-23\bin\Debug\Exercitii22-23.exe
+C:\AgileHubCurs\Exercitii22-23\Exercitii22-23\bin\Debug\Exercitii22-23.pdb
+C:\AgileHubCurs\Exercitii22-23\Exercitii22-23\obj\Debug\Exercitii22.csproj.CoreCompileInputs.cache
+C:\AgileHubCurs\Exercitii22-23\Exercitii22-23\obj\Debug\Exercitii22-23.exe
+C:\AgileHubCurs\Exercitii22-23\Exercitii22-23\obj\Debug\Exercitii22-23.pdb
